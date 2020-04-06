@@ -1,6 +1,0 @@
-print('Facebook')
-print('Snapchat')
-print('google')
-print('Instagram')
-print('youtube')
-print('Whatsapp')
